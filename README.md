@@ -5,11 +5,11 @@ It's brick breaker written in Cobol.
 
 ## How to play
 - Press `space` to start the game.
-- Use the arrow keys to move the paddle left and right. 
+- Use the arrow keys to move the paddle left and right.
 - Destroy the bricks.
 
 ## Notes
-You will need a cobol compiler like [GNU cobc](https://gnucobol.sourceforge.io/) and [raylib](https://www.raylib.com/) to build the code. I am by far not a cobol expert, so if anything does wrong you are on your own.
+You will need a cobol compiler like [GNU cobc](https://gnucobol.sourceforge.io/) and [raylib](https://www.raylib.com/) to build the code. I am by far not a cobol expert, so if anything goes wrong you are on your own.
 
 ## Quick start
 ```console
